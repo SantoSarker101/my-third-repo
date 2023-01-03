@@ -1,0 +1,16 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.demo{
+	background-color: black;
+	color: white;
+	padding: 40px;
+	margin: 20px;
+	box-shadow: 3px 3px 15px 3px red;
+}
+
+.demo:hover{
+	box-shadow: 5px 5px 20px 5px red;
+}
